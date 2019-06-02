@@ -3,7 +3,7 @@
 <head>
    <meta charset="utf-8">
    <title>アルバム</title>
-   <link rel="stylesheet" href="stylesheet.css">
+  
 </head>
 <body>
    <h1 class="title">アルバム</h1>
